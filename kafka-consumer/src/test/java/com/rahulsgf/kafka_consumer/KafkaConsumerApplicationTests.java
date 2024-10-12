@@ -8,6 +8,8 @@ class KafkaConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		// TODO: create test class for all classes
 	}
 
 }
